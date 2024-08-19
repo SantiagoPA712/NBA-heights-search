@@ -54,4 +54,3 @@ Las contribuciones son bienvenidas. Si tienes ideas para mejorar el proyecto, si
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
-```
