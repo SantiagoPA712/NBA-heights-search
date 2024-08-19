@@ -1,4 +1,4 @@
-NBA Players Height Search
+#NBA Players Height Search
 Este proyecto es una aplicación React desarrollada con TypeScript y Vite que permite a los usuarios buscar pares de jugadores de la NBA cuyas alturas sumen un valor específico en pulgadas.
 
 Características
