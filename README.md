@@ -46,11 +46,3 @@ Sigue estos pasos para configurar el proyecto localmente:
 1. Ingrese un valor de altura en pulgadas en el campo de entrada.
 2. Haga clic en el botón "Search".
 3. La aplicación mostrará los pares de jugadores cuyas alturas sumen el valor ingresado.
-
-## Contribución
-
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar el proyecto, si encuentras errores o deseas agregar nuevas características, no dudes en abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
