@@ -53,3 +53,4 @@ export default tseslint.config({
 "# nba-height-search" 
 "# nba-players-height-search" 
 "# nba-players-height-search" 
+"# NBA-heights-search" 
